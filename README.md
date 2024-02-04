@@ -4,4 +4,4 @@ En este repositorio está la documentación relacionada con proyectos del semill
 
 Semestre 2024-1
 
-Actualizado a: Enero 28 de
+Actualizado a: Febrero 4 de 2024
